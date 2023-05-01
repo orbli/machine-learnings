@@ -1,5 +1,5 @@
 torch
 torchvision
 matplotlib
-Flask==2.0.2
+Flask==2.3.2
 google-cloud-logging
